@@ -82,3 +82,7 @@ Essa ferramenta pode ser utilizada para criação de um chatbot para tirar dúvi
 Vale mencionar que assim como especificado pela atividade, os serviços mencionados não geram novas IA, eles são modelos pré-treinados pela Amazon.
 
 Também, pelo que pesquisei, grande maioria podem ser integrados a algum serviço, e implementados através de requisições HTTP.
+
+# Fonte:
+
+https://aws.amazon.com/pt/machine-learning/ai-services/#:~:text=Com%20os%20servi%C3%A7os%20Amazon%20Connect,precioso%3A%20o%20tempo%20dos%20clientes.
